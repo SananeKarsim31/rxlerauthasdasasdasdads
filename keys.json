@@ -1,0 +1,88 @@
+{
+  "keys": {
+    "rxleradminkey": {
+      "expiry": "2030-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02",
+      "admin": true
+    },
+    "x9FfIsC7avzYgVPTlg04112wYSTrhhXg": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "5ml1V3PQcZU6IN9TOvlXJVscDz9sWjt6": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "rBguSraakacsGETNxqK0tTxhiYuAHC3A": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "3gf4NncVSrJ6HfSmDmtJpkGXoVHvD5Iy": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "7p1MGCXfCdjxPvkC8MSTex1nfBoRrDVG": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "DncEaHb8V6TWxEOY0D6wgoswmX3OY5fh": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "8veLts5DZWWnqRv841ycmbOKBavKKnkD": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "mjN6ppjisDTpGPZ85jmpy4f5hOJ7I99s": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "nlccV5bxq4IAdJ6gxPpXZ2J942EjTK9o": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "lM1gJPxPs3uZWakzOmhZXc3kbA7SnKUb": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "t46zsDUcnsRB7PFXFW5ogbhJcWihH6Xe": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    },
+    "EFFQ2ekVyBw7d76pvUbYhnZHKdCeIoLR": {
+      "expiry": "2025-12-31",
+      "hwid": null,
+      "used": false,
+      "created": "2025-11-02"
+    }
+  },
+  "settings": {
+    "max_users": 100,
+    "version": "2.0",
+    "admin": "rxler._"
+  }
+}
