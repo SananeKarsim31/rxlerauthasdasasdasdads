@@ -2,8 +2,8 @@
   "keys": {
     "rxleradminkey": {
       "expiry": "2030-12-31",
-      "hwid": 22ESC4439A4B09323E3FE15C6B988695,
-      "used": true,
+      "hwid": null,
+      "used": false,
       "created": "2025-11-02",
       "admin": true
     },
